@@ -1,1 +1,1 @@
-A file on master, with some new changes, with more new changes
+A file on master, with some new changes, with more new changes, with new changes to test git commit
