@@ -1,1 +1,2 @@
-had finished the work for feature-1
+had finished the work for feature-1,
+Fixing some issue for feature-1
